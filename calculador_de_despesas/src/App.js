@@ -120,7 +120,7 @@ function App() {
             className="input"
           >
             <option value="Pix">Pix</option>
-            <option value="Débito">Cartão</option>
+            <option value="Débito">Débito</option>
             <option value="Crédito">Crédito</option>
             <option value="Dinheiro">Dinheiro</option>
 
